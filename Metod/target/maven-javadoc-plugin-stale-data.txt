@@ -1,0 +1,49 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/NV701/Documents/NetBeansProjects/Metod/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/NV701/Documents/NetBeansProjects/Metod/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Metod 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Metod 1.0-SNAPSHOT API'
+com.mycompany.metod
+C:\Users\NV701\Documents\NetBeansProjects\Metod\src\main\java = 1734580297530
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\allclasses-index.html = 1734607703051
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\allpackages-index.html = 1734607703059
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\copy.svg = 1734607703141
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\element-list = 1734607702828
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\help-doc.html = 1734607703122
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\index-all.html = 1734607703109
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\index.html = 1734607703114
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\javadoc.bat = 1734607632318
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\link.svg = 1734607703145
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\member-search-index.js = 1734607703077
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\module-search-index.js = 1734607703059
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\overview-tree.html = 1734607703017
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\package-search-index.js = 1734607703070
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\script.js = 1734607703138
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\search-page.js = 1734607703155
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\search.html = 1734607703114
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\search.js = 1734607703151
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\serialized-form.html = 1734607702924
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\stylesheet.css = 1734607703134
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\tag-search-index.js = 1734607703080
+C:\Users\NV701\Documents\NetBeansProjects\Metod\target\reports\apidocs\type-search-index.js = 1734607703074

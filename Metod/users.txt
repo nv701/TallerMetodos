@@ -1,0 +1,7 @@
+Trabajador|Gabriel|gab@gmail.com|gabo|123456|1212
+Administrador|gab|gabo@gmail.com|gab|12345|1212
+Trabajador|jorge|jorge@gmail.com|jorge|1234|1212
+Administrador|gaboo|gaboo@gmail.com|gaboo|12345|1212
+Administrador|juan|juan@gmail.com|juan|12345|1212
+Administrador|gaba|gaba@gmail.com|gaab|12345|1212
+Trabajador|jose|jose@gmail.com|jose|123|1212

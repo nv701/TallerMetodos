@@ -1,0 +1,8 @@
+gabo|comer|en la noche|Alta|12/12/2024|25/12/2024|Pendiente
+jorge|estudiar|metodos|Alta|15/12/2024|26/12/2024|Pendiente
+gabo|estudiar|metodos|Alta|12/12/2024|25/12/2024|Pendiente
+gabo|correr|noche|Alta|20/12/2024|25/12/2024|Completada
+gabo|comer|noche|Alta|20/12/2024|25/12/2024|Pendiente
+gabo|comer|noche|Alta|25/12/2024|26/12/2024|Pendiente
+gabo|estudiar|po|Alta|20/12/2024|26/12/2024|Pendiente
+gabo|pon|aaaa|Alta|20/12/2024|25/12/2024|Completada
